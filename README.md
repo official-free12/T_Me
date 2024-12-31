@@ -1,0 +1,6 @@
+# Thinkphp开发的投资理财平台运营版带手机wap，PHP财富理财投资金融源码 P2P分红系统
+
+用户须知：（请购买前务必阅读）<br>1：为避免不必要的纠纷，均以演示站为准，若无演示站请以演示图为准！<br>2：请仔细查看源码说明或演示站，演示图片，一但拍下，不接受非源码质量问题上的退款申请；<br>3：标价仅为源码费用，如果需要提供安装服务，请事先联系店主并确保你的主机必须为宝塔环境，需提供宝塔账号。<br>4：免费付费安装服务仅限搭建到服务器，能够访问前后台。涉及对接支付接口、API对接等服务，另外协商费用；<br>5：程序仅供学习研究，请勿用于非法用途，不得违反国家法律，否则后果自负，一切法律责任与本店无关。<br>6: 整站打包类以及其他数据类有一定误差，比如标题为6000实际可能为5980，网盘以及数据会有一些缺失，因为是整站打包无法一一排查！！但误差率小于8%左右，（拍下视为接受）<br>7：请仔细阅读以上条款再购买，拍下即代表同意条款并遵守约定，谢谢大家支持理解！<br>------------------------------------------------------------------------------------------------<br>Thinkphp开发的投资理财平台运营版带手机wap，PHP财富理财投资金融源码 P2P分红系统，功能有短信宝发信，自动分红、会员等级，会员推荐等<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/uc6qj" style="color: red;">https://mega-file.org/uc6qj</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
